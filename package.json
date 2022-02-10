@@ -30,7 +30,7 @@
         "next-ga": "^2.3.4",
         "nextjs-sitemap-generator": "^0.4.1",
         "node-glob": "^1.2.0",
-        "node-sass": "^4.13.0",
+        "node-sass": "^7.0.0",
         "npm": "^6.14.6",
         "prop-types": "^15.7.2",
         "raw-loader": "^3.0.0",
